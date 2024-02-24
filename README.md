@@ -19,4 +19,3 @@ The [Car Price Prediction](Analysis.ipynb) notebook includes:
 ## Acknowledgements 🎉
 - A big thank you to everyone who contributed to the data collection and analysis process.
 - Appreciation for the community members who provide feedback and suggestions.
-- Appreciation to Siddarth youtube channel
